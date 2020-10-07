@@ -1,6 +1,6 @@
 {
   "name": "react-ace",
-  "version": "v9.1.4-es9",
+  "version": "9.1.5",
   "description": "A react component for Ace Editor",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

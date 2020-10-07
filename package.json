@@ -114,7 +114,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/securingsincity/react-ace.git"
+    "url": "http://github.com/openfn/react-ace.git"
   },
   "prettier": {
     "singleQuote": false,
